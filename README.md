@@ -1,5 +1,5 @@
 # dotfiles
-Dotfiles from XATT \
+Dotfiles from MaliciousXatt
 
 ## TMUX
 For TMUX we make use of the shortcut: 
