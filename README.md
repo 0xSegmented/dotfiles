@@ -1,5 +1,5 @@
 # dotfiles
-Dotfiles from MaliciousXatt
+Dotfiles from [MaliciousXatt](https://github.com/maliciousxatt)
 
 ## TMUX
 For TMUX we make use of the shortcut: 
