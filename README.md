@@ -1,5 +1,5 @@
 # dotfiles
-Dotfiles from [MaliciousXatt](https://github.com/maliciousxatt)
+Dotfiles from [Segmented](https://github.com/0xSegmented)
 
 ## TMUX
 For TMUX we make use of the shortcut: 
